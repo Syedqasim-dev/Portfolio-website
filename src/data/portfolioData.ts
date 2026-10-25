@@ -62,7 +62,7 @@ export const PERSONAL_INFO = {
   githubUrl: "https://github.com/Syedqasim-dev/Projects",
   linkedinUrl: "https://linkedin.com/in/syed-qasim-ali-a8b95a314",
   resumePdfPath: "/assets/aistudio/Syed_Qasim_Ali_AI_ML_Engineer_Resume_bf82cca5.pdf",
-  portraitImage: `${import.meta.env.BASE_URL}assets/aistudio/qasim.jpeg`,
+  portraitImage: `${import.meta.env.BASE_URL}assets/aistudio/qasim-removebg-preview.png`,
   summary: "Results-driven Artificial Intelligence graduate with hands-on experience in machine learning, deep learning, and full-stack AI system development. Proven ability to design and deploy end-to-end AI solutions using Python, TensorFlow, and FastAPI. Skilled in building multimodal systems integrating computer vision, speech processing, and NLP. Adept at translating complex research into practical applications, with a strong foundation in CNNs, LSTMs, and emotion recognition systems. Seeking a role in AI/ML engineering, data science, or software development to contribute technical expertise to impactful, real-world projects.",
   coreCompetencies: [
     "Multimodal AI Systems",
